@@ -1,0 +1,83 @@
+body
+{
+  margin : 0;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  background-color: #c7e2b2;
+}
+h1
+{
+  color: #092532;
+  font-size: 5.625rem;
+  margin:0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2
+{
+  color: #092532;
+  font-size: 3rem;
+  font-family: 'Sacramento', cursive;
+}
+h3
+{
+  color: #092532;
+  font-size: 1.6rem;
+font-family: 'Sacramento', cursive;
+}
+.top-container
+{
+  height: 940px;
+}
+.bottom-cloud
+{
+  width: 17%;
+  float: left;
+  margin-right: 30px;
+  position: absolute;
+  top: 225px;
+}
+.top-cloud
+{
+    width: 17%;
+  position: relative;
+  margin-right: 20%;
+  top: 25px;
+  left: 250px;
+}
+.mountain
+{
+  height: 49%;
+  width: 57.7%;
+position: relative;
+top: 165px;
+
+}
+.sctd
+{
+  font-size: 1.5rem;
+  margin: none;
+}
+.skill-row
+{
+  width: 50%;
+  margin : 100px auto 100px auto;
+  text-align: left;
+}
+.mon1
+{
+
+  width: 23%;
+  float: left;
+  margin: 30px;
+  line-height: 2;
+}
+.mon2
+{
+  width: 23%;
+  float: right;
+  margin-right: 30px
+}
+.dp
+{
+  width: 15%
+}
